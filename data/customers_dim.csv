@@ -1,0 +1,501 @@
+customer_id,name,gender,age,city,area,loyalty_tier
+C0001,Ahmed Malik,Male,39,Karachi,Defence (DHA),Bronze
+C0002,Fahad Ali,Male,33,Karachi,Bahadurabad,Bronze
+C0003,Usman Qureshi,Male,41,Karachi,Defence (DHA),Bronze
+C0004,Fahad Qureshi,Male,50,Karachi,PECHS,Silver
+C0005,Rabia Hashmi,Female,32,Karachi,Bahadurabad,Bronze
+C0006,Bilal Raza,Male,32,Karachi,Nazimabad,Bronze
+C0007,Junaid Sheikh,Male,50,Karachi,North Nazimabad,Bronze
+C0008,Bushra Malik,Female,42,Karachi,Tariq Road,Bronze
+C0009,Ayesha Sheikh,Female,30,Karachi,Malir,Bronze
+C0010,Aroha Baig,Female,40,Karachi,Bahadurabad,Bronze
+C0011,Ali Butt,Male,30,Karachi,Tariq Road,Bronze
+C0012,Faisal Sheikh,Male,30,Karachi,Malir,Bronze
+C0013,Nadia Baig,Female,37,Karachi,Nazimabad,Bronze
+C0014,Zara Ansari,Female,18,Karachi,Federal B Area,Silver
+C0015,Asad Chaudhry,Male,18,Karachi,Saddar,Gold
+C0016,Junaid Ahmed,Male,29,Karachi,Defence (DHA),Silver
+C0017,Uzma Malik,Female,24,Karachi,North Nazimabad,Bronze
+C0018,Mehwish Rizvi,Female,38,Karachi,Malir,Silver
+C0019,Sana Malik,Female,25,Karachi,Clifton,Bronze
+C0020,Sobia Raza,Female,20,Karachi,Bahadurabad,Bronze
+C0021,Omar Farooq,Male,49,Karachi,Korangi,Bronze
+C0022,Hassan Siddiqui,Male,32,Karachi,Gulistan-e-Johar,Bronze
+C0023,Aroha Ali,Female,35,Karachi,Malir,Bronze
+C0024,Maryam Malik,Female,20,Karachi,Federal B Area,Silver
+C0025,Hassan Iqbal,Male,29,Karachi,Tariq Road,Bronze
+C0026,Hina Hussain,Female,36,Karachi,Malir,Bronze
+C0027,Tariq Farooq,Male,23,Karachi,Tariq Road,Bronze
+C0028,Imran Farooq,Male,38,Karachi,Bahadurabad,Bronze
+C0029,Nadia Iqbal,Female,28,Karachi,Tariq Road,Gold
+C0030,Waseem Mirza,Male,32,Karachi,Korangi,Bronze
+C0031,Sara Butt,Female,28,Karachi,Gulshan-e-Iqbal,Bronze
+C0032,Usman Rizvi,Male,53,Karachi,Lyari,Bronze
+C0033,Omar Rizvi,Male,34,Karachi,Federal B Area,Bronze
+C0034,Mehwish Iqbal,Female,24,Karachi,Tariq Road,Silver
+C0035,Imran Chaudhry,Male,43,Karachi,Gulistan-e-Johar,Silver
+C0036,Maryam Hashmi,Female,22,Karachi,North Nazimabad,Bronze
+C0037,Junaid Khan,Male,37,Karachi,Bahadurabad,Bronze
+C0038,Ahmed Ali,Male,18,Karachi,PECHS,Silver
+C0039,Usman Ahmed,Male,21,Karachi,Lyari,Bronze
+C0040,Tariq Rizvi,Male,36,Karachi,Defence (DHA),Bronze
+C0041,Rabia Rizvi,Female,42,Karachi,Tariq Road,Bronze
+C0042,Hassan Raza,Male,36,Karachi,Nazimabad,Bronze
+C0043,Aisha Sheikh,Female,33,Karachi,Gulshan-e-Iqbal,Bronze
+C0044,Hina Butt,Female,31,Karachi,Defence (DHA),Bronze
+C0045,Sana Raza,Female,20,Karachi,Clifton,Bronze
+C0046,Usman Hashmi,Male,27,Karachi,Tariq Road,Silver
+C0047,Ali Iqbal,Male,30,Karachi,Lyari,Bronze
+C0048,Faisal Ansari,Male,45,Karachi,Malir,Bronze
+C0049,Naeem Ahmed,Male,38,Karachi,Clifton,Bronze
+C0050,Amna Hashmi,Female,18,Karachi,Saddar,Bronze
+C0051,Sana Qureshi,Female,38,Karachi,Saddar,Bronze
+C0052,Saad Iqbal,Male,31,Karachi,Gulshan-e-Iqbal,Silver
+C0053,Ali Rizvi,Male,28,Karachi,Federal B Area,Gold
+C0054,Ali Farooq,Male,41,Karachi,North Nazimabad,Silver
+C0055,Waseem Ali,Male,45,Karachi,Gulistan-e-Johar,Silver
+C0056,Hina Butt,Female,44,Karachi,Bahadurabad,Bronze
+C0057,Salman Farooq,Male,26,Karachi,Nazimabad,Gold
+C0058,Junaid Butt,Male,31,Karachi,Saddar,Bronze
+C0059,Noor Mirza,Female,38,Karachi,Tariq Road,Gold
+C0060,Asad Sheikh,Male,44,Karachi,North Nazimabad,Bronze
+C0061,Sana Baig,Female,30,Karachi,North Nazimabad,Silver
+C0062,Sara Ansari,Female,33,Karachi,Korangi,Silver
+C0063,Aroha Farooq,Female,23,Karachi,Gulshan-e-Iqbal,Silver
+C0064,Hina Siddiqui,Female,23,Karachi,Saddar,Bronze
+C0065,Fahad Siddiqui,Male,43,Karachi,Saddar,Bronze
+C0066,Junaid Qureshi,Male,48,Karachi,Gulistan-e-Johar,Silver
+C0067,Maryam Rizvi,Female,34,Karachi,Saddar,Gold
+C0068,Usman Raza,Male,45,Karachi,Lyari,Bronze
+C0069,Junaid Siddiqui,Male,38,Karachi,Gulistan-e-Johar,Gold
+C0070,Asad Iqbal,Male,28,Karachi,PECHS,Bronze
+C0071,Hassan Ali,Male,38,Karachi,PECHS,Gold
+C0072,Kamran Iqbal,Male,50,Karachi,Clifton,Bronze
+C0073,Imran Baig,Male,34,Karachi,Tariq Road,Gold
+C0074,Kamran Qureshi,Male,50,Karachi,Gulistan-e-Johar,Bronze
+C0075,Kamran Iqbal,Male,18,Karachi,Lyari,Bronze
+C0076,Faisal Ansari,Male,43,Karachi,Tariq Road,Silver
+C0077,Fatima Ansari,Female,35,Karachi,PECHS,Gold
+C0078,Rabia Malik,Female,32,Karachi,Clifton,Silver
+C0079,Naeem Ahmed,Male,35,Karachi,Lyari,Bronze
+C0080,Asad Baig,Male,18,Karachi,Saddar,Silver
+C0081,Faisal Khan,Male,32,Karachi,Gulistan-e-Johar,Bronze
+C0082,Amna Ali,Female,38,Karachi,Tariq Road,Bronze
+C0083,Ayesha Mirza,Female,49,Karachi,Gulshan-e-Iqbal,Bronze
+C0084,Nadia Malik,Female,29,Karachi,Gulshan-e-Iqbal,Bronze
+C0085,Bushra Mirza,Female,26,Karachi,Malir,Silver
+C0086,Naeem Qureshi,Male,29,Karachi,Saddar,Bronze
+C0087,Fatima Farooq,Female,44,Karachi,Tariq Road,Bronze
+C0088,Kamran Raza,Male,38,Karachi,North Nazimabad,Gold
+C0089,Aroha Mirza,Female,29,Karachi,Gulistan-e-Johar,Silver
+C0090,Maryam Hussain,Female,40,Karachi,Gulistan-e-Johar,Bronze
+C0091,Sara Iqbal,Female,35,Karachi,Clifton,Bronze
+C0092,Nadia Hussain,Female,44,Karachi,Malir,Bronze
+C0093,Imran Hussain,Male,27,Karachi,Defence (DHA),Bronze
+C0094,Noor Hashmi,Female,31,Karachi,Korangi,Silver
+C0095,Nadia Ali,Female,31,Karachi,Saddar,Bronze
+C0096,Zara Butt,Female,20,Karachi,Gulistan-e-Johar,Bronze
+C0097,Omar Khan,Male,37,Karachi,Gulshan-e-Iqbal,Bronze
+C0098,Aroha Ali,Female,37,Karachi,Korangi,Bronze
+C0099,Naeem Rizvi,Male,35,Karachi,Malir,Bronze
+C0100,Hassan Raza,Male,32,Karachi,Defence (DHA),Bronze
+C0101,Aisha Iqbal,Female,20,Karachi,Defence (DHA),Gold
+C0102,Asad Siddiqui,Male,30,Karachi,Tariq Road,Bronze
+C0103,Noor Farooq,Female,31,Karachi,Malir,Silver
+C0104,Nadia Rizvi,Female,26,Karachi,Korangi,Bronze
+C0105,Tariq Farooq,Male,33,Karachi,Korangi,Silver
+C0106,Noor Ali,Female,39,Karachi,PECHS,Bronze
+C0107,Mariam Mirza,Female,53,Karachi,Federal B Area,Bronze
+C0108,Faisal Chaudhry,Male,36,Karachi,PECHS,Bronze
+C0109,Usman Raza,Male,37,Karachi,Malir,Bronze
+C0110,Saima Ahmed,Female,34,Karachi,Defence (DHA),Silver
+C0111,Sobia Khan,Female,18,Karachi,Lyari,Silver
+C0112,Iqra Khan,Female,34,Karachi,Nazimabad,Bronze
+C0113,Saima Iqbal,Female,35,Karachi,PECHS,Silver
+C0114,Raza Butt,Male,59,Karachi,Saddar,Bronze
+C0115,Naeem Mirza,Male,33,Karachi,Gulistan-e-Johar,Silver
+C0116,Nadia Hashmi,Female,38,Karachi,Clifton,Gold
+C0117,Naeem Khan,Male,34,Karachi,North Nazimabad,Silver
+C0118,Asad Ansari,Male,23,Karachi,Gulshan-e-Iqbal,Bronze
+C0119,Mehwish Hashmi,Female,46,Karachi,Nazimabad,Bronze
+C0120,Amna Raza,Female,42,Karachi,Saddar,Silver
+C0121,Fatima Iqbal,Female,42,Karachi,Gulshan-e-Iqbal,Gold
+C0122,Rabia Ali,Female,25,Karachi,Tariq Road,Gold
+C0123,Ahmed Butt,Male,49,Karachi,Defence (DHA),Silver
+C0124,Faisal Siddiqui,Male,20,Karachi,Korangi,Silver
+C0125,Asad Malik,Male,40,Karachi,Tariq Road,Bronze
+C0126,Bilal Hussain,Male,56,Karachi,North Nazimabad,Bronze
+C0127,Sobia Chaudhry,Female,25,Karachi,Malir,Gold
+C0128,Usman Butt,Male,29,Karachi,North Nazimabad,Silver
+C0129,Aroha Sheikh,Female,35,Karachi,Tariq Road,Gold
+C0130,Kamran Iqbal,Male,29,Karachi,Malir,Silver
+C0131,Hamza Mirza,Male,19,Karachi,Gulshan-e-Iqbal,Silver
+C0132,Hina Raza,Female,35,Karachi,Nazimabad,Silver
+C0133,Sana Raza,Female,24,Karachi,Clifton,Silver
+C0134,Aroha Iqbal,Female,39,Karachi,Tariq Road,Bronze
+C0135,Sobia Malik,Female,25,Karachi,Nazimabad,Silver
+C0136,Tariq Hashmi,Male,50,Karachi,Defence (DHA),Silver
+C0137,Mariam Khan,Female,27,Karachi,Korangi,Silver
+C0138,Raza Qureshi,Male,31,Karachi,Nazimabad,Silver
+C0139,Amna Malik,Female,43,Karachi,Federal B Area,Bronze
+C0140,Usman Butt,Male,22,Karachi,PECHS,Bronze
+C0141,Raza Rizvi,Male,37,Karachi,Korangi,Silver
+C0142,Imran Butt,Male,48,Karachi,Malir,Silver
+C0143,Sobia Baig,Female,18,Karachi,Korangi,Bronze
+C0144,Saima Iqbal,Female,36,Karachi,Nazimabad,Bronze
+C0145,Amna Hussain,Female,37,Karachi,Saddar,Bronze
+C0146,Junaid Sheikh,Male,42,Karachi,PECHS,Bronze
+C0147,Zain Qureshi,Male,22,Karachi,PECHS,Bronze
+C0148,Hina Qureshi,Female,21,Karachi,Saddar,Bronze
+C0149,Imran Khan,Male,40,Karachi,PECHS,Bronze
+C0150,Aisha Ahmed,Female,37,Karachi,Federal B Area,Bronze
+C0151,Raza Sheikh,Male,37,Karachi,Lyari,Bronze
+C0152,Iqra Rizvi,Female,38,Karachi,Korangi,Bronze
+C0153,Tariq Rizvi,Male,28,Karachi,North Nazimabad,Silver
+C0154,Iqra Ali,Female,37,Karachi,Bahadurabad,Silver
+C0155,Omar Siddiqui,Male,37,Karachi,Tariq Road,Bronze
+C0156,Zara Butt,Female,27,Karachi,North Nazimabad,Bronze
+C0157,Aroha Butt,Female,53,Karachi,Tariq Road,Bronze
+C0158,Noor Hussain,Female,39,Karachi,Lyari,Bronze
+C0159,Sara Ahmed,Female,23,Karachi,Bahadurabad,Gold
+C0160,Zain Qureshi,Male,41,Karachi,Saddar,Silver
+C0161,Faisal Ansari,Male,25,Karachi,Federal B Area,Bronze
+C0162,Salman Hashmi,Male,42,Karachi,PECHS,Bronze
+C0163,Aisha Butt,Female,46,Karachi,Saddar,Silver
+C0164,Zara Butt,Female,26,Karachi,Saddar,Silver
+C0165,Salman Sheikh,Male,44,Karachi,Federal B Area,Bronze
+C0166,Tariq Siddiqui,Male,39,Karachi,North Nazimabad,Bronze
+C0167,Aroha Hussain,Female,43,Karachi,Korangi,Bronze
+C0168,Uzma Malik,Female,53,Karachi,Federal B Area,Bronze
+C0169,Zara Ahmed,Female,32,Karachi,Malir,Silver
+C0170,Fatima Ali,Female,27,Karachi,Defence (DHA),Gold
+C0171,Tariq Ahmed,Male,26,Karachi,Tariq Road,Silver
+C0172,Maryam Hashmi,Female,26,Karachi,Saddar,Bronze
+C0173,Iqra Ali,Female,34,Karachi,Korangi,Bronze
+C0174,Mariam Sheikh,Female,38,Karachi,Lyari,Bronze
+C0175,Iqra Hussain,Female,37,Karachi,Gulistan-e-Johar,Gold
+C0176,Asad Ali,Male,43,Karachi,Nazimabad,Bronze
+C0177,Naeem Farooq,Male,35,Karachi,Lyari,Gold
+C0178,Saima Ahmed,Female,49,Karachi,Defence (DHA),Bronze
+C0179,Noor Ahmed,Female,32,Karachi,Defence (DHA),Bronze
+C0180,Imran Hashmi,Male,62,Karachi,PECHS,Bronze
+C0181,Waseem Butt,Male,41,Karachi,PECHS,Bronze
+C0182,Fahad Raza,Male,26,Karachi,North Nazimabad,Bronze
+C0183,Asad Sheikh,Male,24,Karachi,Gulistan-e-Johar,Silver
+C0184,Sara Farooq,Female,39,Karachi,PECHS,Bronze
+C0185,Iqra Butt,Female,32,Karachi,Korangi,Bronze
+C0186,Mehwish Farooq,Female,42,Karachi,PECHS,Silver
+C0187,Tariq Raza,Male,39,Karachi,Nazimabad,Gold
+C0188,Fatima Hussain,Female,34,Karachi,PECHS,Bronze
+C0189,Sana Hashmi,Female,26,Karachi,Federal B Area,Bronze
+C0190,Ayesha Iqbal,Female,19,Karachi,Malir,Bronze
+C0191,Mehwish Butt,Female,30,Karachi,Bahadurabad,Bronze
+C0192,Aisha Mirza,Female,43,Karachi,PECHS,Bronze
+C0193,Uzma Siddiqui,Female,37,Karachi,Korangi,Gold
+C0194,Hamza Mirza,Male,22,Karachi,Lyari,Bronze
+C0195,Hina Farooq,Female,36,Karachi,Korangi,Bronze
+C0196,Salman Siddiqui,Male,38,Karachi,North Nazimabad,Bronze
+C0197,Mariam Chaudhry,Female,26,Karachi,Gulistan-e-Johar,Bronze
+C0198,Ayesha Chaudhry,Female,36,Karachi,Nazimabad,Silver
+C0199,Ayesha Ahmed,Female,35,Karachi,Bahadurabad,Bronze
+C0200,Rabia Ali,Female,23,Karachi,Malir,Gold
+C0201,Asad Ansari,Male,38,Karachi,PECHS,Bronze
+C0202,Ali Mirza,Male,40,Karachi,Tariq Road,Bronze
+C0203,Bushra Raza,Female,45,Karachi,Clifton,Bronze
+C0204,Sobia Ansari,Female,45,Karachi,Clifton,Bronze
+C0205,Aroha Butt,Female,21,Karachi,Korangi,Gold
+C0206,Faisal Hashmi,Male,25,Karachi,Gulistan-e-Johar,Bronze
+C0207,Fatima Hashmi,Female,40,Karachi,Saddar,Silver
+C0208,Usman Hashmi,Male,40,Karachi,Nazimabad,Gold
+C0209,Saima Malik,Female,40,Karachi,Korangi,Silver
+C0210,Naeem Rizvi,Male,70,Karachi,North Nazimabad,Bronze
+C0211,Sobia Hussain,Female,40,Karachi,PECHS,Bronze
+C0212,Amna Khan,Female,46,Karachi,Bahadurabad,Silver
+C0213,Waseem Rizvi,Male,44,Karachi,Lyari,Gold
+C0214,Rabia Baig,Female,41,Karachi,Defence (DHA),Silver
+C0215,Sana Sheikh,Female,31,Karachi,Gulistan-e-Johar,Silver
+C0216,Noor Ahmed,Female,42,Karachi,Bahadurabad,Bronze
+C0217,Usman Hussain,Male,27,Karachi,Nazimabad,Silver
+C0218,Zain Siddiqui,Male,32,Karachi,Tariq Road,Bronze
+C0219,Maryam Farooq,Female,30,Karachi,Saddar,Silver
+C0220,Iqra Hussain,Female,35,Karachi,PECHS,Silver
+C0221,Asad Ali,Male,58,Karachi,Clifton,Silver
+C0222,Naeem Iqbal,Male,18,Karachi,Nazimabad,Bronze
+C0223,Fatima Malik,Female,41,Karachi,Federal B Area,Bronze
+C0224,Amna Chaudhry,Female,18,Karachi,Lyari,Silver
+C0225,Hina Butt,Female,30,Karachi,Korangi,Bronze
+C0226,Aroha Butt,Female,45,Karachi,Gulistan-e-Johar,Bronze
+C0227,Sara Raza,Female,35,Karachi,North Nazimabad,Bronze
+C0228,Imran Rizvi,Male,24,Karachi,North Nazimabad,Bronze
+C0229,Naeem Hashmi,Male,27,Karachi,Nazimabad,Silver
+C0230,Sobia Siddiqui,Female,41,Karachi,Malir,Silver
+C0231,Aroha Raza,Female,27,Karachi,Saddar,Bronze
+C0232,Mehwish Hashmi,Female,37,Karachi,Korangi,Gold
+C0233,Hina Baig,Female,35,Karachi,Federal B Area,Gold
+C0234,Aisha Chaudhry,Female,28,Karachi,Saddar,Bronze
+C0235,Asad Ali,Male,56,Karachi,Gulistan-e-Johar,Bronze
+C0236,Ali Mirza,Male,41,Karachi,Defence (DHA),Gold
+C0237,Usman Iqbal,Male,18,Karachi,Defence (DHA),Bronze
+C0238,Junaid Siddiqui,Male,36,Karachi,Tariq Road,Gold
+C0239,Tariq Siddiqui,Male,28,Karachi,Clifton,Bronze
+C0240,Hassan Khan,Male,43,Karachi,Clifton,Bronze
+C0241,Saad Mirza,Male,27,Karachi,Gulshan-e-Iqbal,Bronze
+C0242,Omar Raza,Male,33,Karachi,Federal B Area,Bronze
+C0243,Raza Hashmi,Male,40,Karachi,Tariq Road,Bronze
+C0244,Asad Farooq,Male,43,Karachi,Defence (DHA),Gold
+C0245,Hamza Hussain,Male,22,Karachi,Korangi,Silver
+C0246,Ali Rizvi,Male,31,Karachi,Lyari,Bronze
+C0247,Raza Hashmi,Male,30,Karachi,North Nazimabad,Silver
+C0248,Aroha Siddiqui,Female,28,Karachi,North Nazimabad,Bronze
+C0249,Uzma Farooq,Female,52,Karachi,Saddar,Bronze
+C0250,Hina Sheikh,Female,39,Karachi,Lyari,Silver
+C0251,Salman Hashmi,Male,22,Karachi,Defence (DHA),Bronze
+C0252,Uzma Raza,Female,44,Karachi,PECHS,Bronze
+C0253,Mariam Malik,Female,56,Karachi,Nazimabad,Gold
+C0254,Zara Ali,Female,45,Karachi,Lyari,Bronze
+C0255,Hina Baig,Female,19,Karachi,Tariq Road,Bronze
+C0256,Saad Iqbal,Male,30,Karachi,Federal B Area,Bronze
+C0257,Salman Baig,Male,47,Karachi,Lyari,Silver
+C0258,Aisha Hussain,Female,27,Karachi,Bahadurabad,Bronze
+C0259,Saad Farooq,Male,39,Karachi,Defence (DHA),Bronze
+C0260,Rabia Sheikh,Female,42,Karachi,Nazimabad,Silver
+C0261,Hina Malik,Female,25,Karachi,Bahadurabad,Bronze
+C0262,Ayesha Iqbal,Female,34,Karachi,Gulshan-e-Iqbal,Silver
+C0263,Fatima Ansari,Female,18,Karachi,Saddar,Silver
+C0264,Mariam Baig,Female,24,Karachi,Gulshan-e-Iqbal,Bronze
+C0265,Saad Chaudhry,Male,32,Karachi,North Nazimabad,Bronze
+C0266,Usman Farooq,Male,22,Karachi,Defence (DHA),Bronze
+C0267,Mariam Ansari,Female,51,Karachi,Nazimabad,Bronze
+C0268,Sobia Ali,Female,20,Karachi,Gulshan-e-Iqbal,Bronze
+C0269,Usman Malik,Male,30,Karachi,Korangi,Silver
+C0270,Aroha Hashmi,Female,36,Karachi,Malir,Bronze
+C0271,Kamran Raza,Male,49,Karachi,North Nazimabad,Bronze
+C0272,Maryam Hussain,Female,20,Karachi,Gulshan-e-Iqbal,Bronze
+C0273,Ahmed Qureshi,Male,46,Karachi,Saddar,Gold
+C0274,Tariq Hussain,Male,35,Karachi,Nazimabad,Bronze
+C0275,Saima Ansari,Female,25,Karachi,Clifton,Bronze
+C0276,Hamza Iqbal,Male,39,Karachi,Lyari,Silver
+C0277,Zara Chaudhry,Female,36,Karachi,Lyari,Silver
+C0278,Fatima Hashmi,Female,28,Karachi,North Nazimabad,Silver
+C0279,Sobia Chaudhry,Female,35,Karachi,PECHS,Silver
+C0280,Hina Chaudhry,Female,31,Karachi,Gulshan-e-Iqbal,Gold
+C0281,Waseem Hashmi,Male,36,Karachi,Lyari,Silver
+C0282,Zara Raza,Female,41,Karachi,Lyari,Bronze
+C0283,Sobia Chaudhry,Female,50,Karachi,Federal B Area,Bronze
+C0284,Mariam Butt,Female,22,Karachi,Nazimabad,Silver
+C0285,Hamza Sheikh,Male,56,Karachi,Federal B Area,Bronze
+C0286,Bushra Siddiqui,Female,18,Karachi,Defence (DHA),Bronze
+C0287,Mehwish Ansari,Female,33,Karachi,Bahadurabad,Bronze
+C0288,Bilal Rizvi,Male,40,Karachi,Korangi,Silver
+C0289,Sobia Mirza,Female,37,Karachi,Lyari,Gold
+C0290,Sana Hashmi,Female,28,Karachi,North Nazimabad,Bronze
+C0291,Amna Ahmed,Female,32,Karachi,Nazimabad,Bronze
+C0292,Noor Hashmi,Female,30,Karachi,Gulshan-e-Iqbal,Bronze
+C0293,Zara Ali,Female,29,Karachi,Bahadurabad,Bronze
+C0294,Noor Iqbal,Female,43,Karachi,Tariq Road,Silver
+C0295,Asad Qureshi,Male,38,Karachi,Nazimabad,Silver
+C0296,Ali Hashmi,Male,28,Karachi,North Nazimabad,Silver
+C0297,Zara Farooq,Female,43,Karachi,Gulistan-e-Johar,Bronze
+C0298,Asad Hashmi,Male,38,Karachi,Federal B Area,Bronze
+C0299,Kamran Baig,Male,43,Karachi,Saddar,Bronze
+C0300,Aroha Ahmed,Female,41,Karachi,Tariq Road,Silver
+C0301,Zara Mirza,Female,26,Karachi,North Nazimabad,Bronze
+C0302,Sara Malik,Female,29,Karachi,PECHS,Silver
+C0303,Junaid Ali,Male,42,Karachi,Bahadurabad,Silver
+C0304,Sara Chaudhry,Female,41,Karachi,Clifton,Bronze
+C0305,Imran Iqbal,Male,34,Karachi,Malir,Silver
+C0306,Sana Farooq,Female,36,Karachi,North Nazimabad,Silver
+C0307,Maryam Baig,Female,47,Karachi,Gulshan-e-Iqbal,Bronze
+C0308,Zain Mirza,Male,29,Karachi,Tariq Road,Bronze
+C0309,Omar Siddiqui,Male,40,Karachi,North Nazimabad,Bronze
+C0310,Hamza Iqbal,Male,32,Karachi,Lyari,Silver
+C0311,Junaid Siddiqui,Male,32,Karachi,Bahadurabad,Bronze
+C0312,Bilal Ansari,Male,45,Karachi,PECHS,Bronze
+C0313,Bushra Butt,Female,43,Karachi,Korangi,Silver
+C0314,Rabia Iqbal,Female,43,Karachi,Defence (DHA),Bronze
+C0315,Mehwish Baig,Female,48,Karachi,Gulistan-e-Johar,Gold
+C0316,Noor Hussain,Female,35,Karachi,Tariq Road,Bronze
+C0317,Nadia Qureshi,Female,41,Karachi,Tariq Road,Silver
+C0318,Aisha Rizvi,Female,31,Karachi,Lyari,Bronze
+C0319,Hamza Sheikh,Male,38,Karachi,Saddar,Bronze
+C0320,Tariq Hashmi,Male,33,Karachi,Federal B Area,Bronze
+C0321,Zara Butt,Female,35,Karachi,Lyari,Bronze
+C0322,Fatima Raza,Female,40,Karachi,Gulshan-e-Iqbal,Bronze
+C0323,Rabia Chaudhry,Female,26,Karachi,North Nazimabad,Bronze
+C0324,Junaid Sheikh,Male,55,Karachi,Lyari,Silver
+C0325,Sana Siddiqui,Female,24,Karachi,Gulshan-e-Iqbal,Bronze
+C0326,Sana Rizvi,Female,22,Karachi,Korangi,Silver
+C0327,Ahmed Malik,Male,46,Karachi,Defence (DHA),Silver
+C0328,Hina Hussain,Female,42,Karachi,Defence (DHA),Bronze
+C0329,Faisal Raza,Male,41,Karachi,Gulistan-e-Johar,Silver
+C0330,Zara Sheikh,Female,41,Karachi,Lyari,Gold
+C0331,Hamza Butt,Male,34,Karachi,PECHS,Bronze
+C0332,Fatima Baig,Female,26,Karachi,Defence (DHA),Bronze
+C0333,Usman Farooq,Male,35,Karachi,Nazimabad,Bronze
+C0334,Naeem Rizvi,Male,28,Karachi,Gulshan-e-Iqbal,Silver
+C0335,Amna Khan,Female,44,Karachi,Nazimabad,Silver
+C0336,Rabia Sheikh,Female,33,Karachi,Tariq Road,Bronze
+C0337,Sana Ahmed,Female,26,Karachi,Nazimabad,Bronze
+C0338,Asad Rizvi,Male,31,Karachi,Gulistan-e-Johar,Bronze
+C0339,Usman Hashmi,Male,39,Karachi,Gulshan-e-Iqbal,Bronze
+C0340,Zain Ahmed,Male,29,Karachi,Nazimabad,Gold
+C0341,Ayesha Rizvi,Female,26,Karachi,Saddar,Bronze
+C0342,Imran Baig,Male,37,Karachi,Lyari,Silver
+C0343,Amna Sheikh,Female,37,Karachi,Tariq Road,Bronze
+C0344,Noor Chaudhry,Female,29,Karachi,Nazimabad,Gold
+C0345,Iqra Baig,Female,30,Karachi,Tariq Road,Bronze
+C0346,Salman Ali,Male,37,Karachi,Malir,Silver
+C0347,Fahad Hussain,Male,20,Karachi,Nazimabad,Bronze
+C0348,Sara Hussain,Female,20,Karachi,Korangi,Silver
+C0349,Nadia Hashmi,Female,27,Karachi,Nazimabad,Bronze
+C0350,Aroha Raza,Female,32,Karachi,Saddar,Silver
+C0351,Usman Chaudhry,Male,38,Karachi,Nazimabad,Bronze
+C0352,Ahmed Siddiqui,Male,49,Karachi,Lyari,Silver
+C0353,Aisha Siddiqui,Female,43,Karachi,North Nazimabad,Bronze
+C0354,Bushra Chaudhry,Female,33,Karachi,Bahadurabad,Bronze
+C0355,Asad Baig,Male,34,Karachi,Nazimabad,Bronze
+C0356,Saad Siddiqui,Male,24,Karachi,Federal B Area,Bronze
+C0357,Amna Butt,Female,34,Karachi,North Nazimabad,Bronze
+C0358,Raza Farooq,Male,32,Karachi,Malir,Gold
+C0359,Tariq Malik,Male,38,Karachi,PECHS,Bronze
+C0360,Iqra Qureshi,Female,26,Karachi,North Nazimabad,Bronze
+C0361,Asad Ansari,Male,40,Karachi,PECHS,Bronze
+C0362,Junaid Baig,Male,50,Karachi,PECHS,Bronze
+C0363,Sara Ansari,Female,33,Karachi,PECHS,Silver
+C0364,Kamran Farooq,Male,39,Karachi,Defence (DHA),Bronze
+C0365,Omar Butt,Male,41,Karachi,Tariq Road,Bronze
+C0366,Ayesha Baig,Female,30,Karachi,Korangi,Silver
+C0367,Waseem Ali,Male,37,Karachi,North Nazimabad,Bronze
+C0368,Maryam Raza,Female,35,Karachi,Tariq Road,Bronze
+C0369,Omar Mirza,Male,35,Karachi,Gulistan-e-Johar,Bronze
+C0370,Maryam Baig,Female,27,Karachi,Clifton,Silver
+C0371,Omar Raza,Male,35,Karachi,Federal B Area,Gold
+C0372,Hassan Farooq,Male,39,Karachi,Clifton,Bronze
+C0373,Junaid Butt,Male,49,Karachi,Nazimabad,Gold
+C0374,Zara Malik,Female,44,Karachi,Defence (DHA),Silver
+C0375,Sana Hussain,Female,56,Karachi,Bahadurabad,Bronze
+C0376,Saad Siddiqui,Male,27,Karachi,Clifton,Silver
+C0377,Sobia Ahmed,Female,43,Karachi,Lyari,Silver
+C0378,Ali Malik,Male,36,Karachi,Gulistan-e-Johar,Bronze
+C0379,Aroha Khan,Female,56,Karachi,Korangi,Silver
+C0380,Sara Rizvi,Female,26,Karachi,Defence (DHA),Silver
+C0381,Sara Hashmi,Female,26,Karachi,North Nazimabad,Silver
+C0382,Asad Raza,Male,29,Karachi,Korangi,Bronze
+C0383,Aroha Siddiqui,Female,18,Karachi,Nazimabad,Silver
+C0384,Bushra Chaudhry,Female,29,Karachi,Clifton,Silver
+C0385,Junaid Butt,Male,27,Karachi,Korangi,Bronze
+C0386,Rabia Siddiqui,Female,36,Karachi,North Nazimabad,Bronze
+C0387,Aroha Raza,Female,38,Karachi,Defence (DHA),Gold
+C0388,Junaid Mirza,Male,53,Karachi,Defence (DHA),Silver
+C0389,Maryam Hashmi,Female,44,Karachi,Korangi,Silver
+C0390,Fatima Ali,Female,29,Karachi,Malir,Bronze
+C0391,Zain Baig,Male,26,Karachi,Gulshan-e-Iqbal,Bronze
+C0392,Aroha Rizvi,Female,39,Karachi,Saddar,Bronze
+C0393,Salman Siddiqui,Male,21,Karachi,Saddar,Silver
+C0394,Bushra Ahmed,Female,53,Karachi,Malir,Bronze
+C0395,Kamran Iqbal,Male,46,Karachi,Saddar,Bronze
+C0396,Ayesha Malik,Female,30,Karachi,Lyari,Gold
+C0397,Omar Sheikh,Male,18,Karachi,Malir,Bronze
+C0398,Ayesha Baig,Female,48,Karachi,Tariq Road,Bronze
+C0399,Maryam Ahmed,Female,33,Karachi,Gulshan-e-Iqbal,Bronze
+C0400,Iqra Farooq,Female,47,Karachi,Korangi,Bronze
+C0401,Junaid Mirza,Male,19,Karachi,Clifton,Bronze
+C0402,Sobia Mirza,Female,29,Karachi,Federal B Area,Silver
+C0403,Sobia Hussain,Female,35,Karachi,Korangi,Silver
+C0404,Mariam Sheikh,Female,35,Karachi,Malir,Bronze
+C0405,Waseem Rizvi,Male,30,Karachi,Saddar,Gold
+C0406,Ali Rizvi,Male,41,Karachi,Clifton,Bronze
+C0407,Sana Butt,Female,24,Karachi,Gulshan-e-Iqbal,Bronze
+C0408,Zain Khan,Male,33,Karachi,Korangi,Bronze
+C0409,Salman Qureshi,Male,36,Karachi,Malir,Bronze
+C0410,Aisha Siddiqui,Female,40,Karachi,Federal B Area,Bronze
+C0411,Iqra Farooq,Female,42,Karachi,Malir,Bronze
+C0412,Asad Iqbal,Male,23,Karachi,Nazimabad,Bronze
+C0413,Aroha Rizvi,Female,19,Karachi,Defence (DHA),Gold
+C0414,Ayesha Hussain,Female,47,Karachi,Defence (DHA),Gold
+C0415,Sara Qureshi,Female,38,Karachi,PECHS,Silver
+C0416,Iqra Baig,Female,27,Karachi,Federal B Area,Gold
+C0417,Sara Sheikh,Female,50,Karachi,Bahadurabad,Silver
+C0418,Uzma Baig,Female,36,Karachi,Tariq Road,Silver
+C0419,Aisha Hussain,Female,46,Karachi,PECHS,Bronze
+C0420,Amna Rizvi,Female,35,Karachi,Defence (DHA),Bronze
+C0421,Ayesha Malik,Female,55,Karachi,Clifton,Bronze
+C0422,Faisal Ahmed,Male,52,Karachi,Gulistan-e-Johar,Gold
+C0423,Faisal Ahmed,Male,32,Karachi,North Nazimabad,Bronze
+C0424,Hina Siddiqui,Female,44,Karachi,Gulshan-e-Iqbal,Gold
+C0425,Salman Rizvi,Male,41,Karachi,Korangi,Silver
+C0426,Mariam Hussain,Female,48,Karachi,Gulistan-e-Johar,Bronze
+C0427,Saad Butt,Male,25,Karachi,Federal B Area,Silver
+C0428,Bilal Raza,Male,41,Karachi,Lyari,Bronze
+C0429,Naeem Rizvi,Male,45,Karachi,Clifton,Gold
+C0430,Aisha Khan,Female,18,Karachi,Saddar,Bronze
+C0431,Junaid Hussain,Male,23,Karachi,Korangi,Gold
+C0432,Sana Farooq,Female,18,Karachi,Korangi,Bronze
+C0433,Junaid Ansari,Male,32,Karachi,PECHS,Bronze
+C0434,Nadia Khan,Female,42,Karachi,PECHS,Bronze
+C0435,Sobia Qureshi,Female,50,Karachi,Clifton,Silver
+C0436,Saima Farooq,Female,35,Karachi,Nazimabad,Bronze
+C0437,Bilal Siddiqui,Male,51,Karachi,Korangi,Bronze
+C0438,Ahmed Malik,Male,21,Karachi,Malir,Bronze
+C0439,Mariam Hussain,Female,18,Karachi,Bahadurabad,Silver
+C0440,Tariq Baig,Male,34,Karachi,PECHS,Bronze
+C0441,Asad Hussain,Male,38,Karachi,Clifton,Bronze
+C0442,Hina Hussain,Female,34,Karachi,Nazimabad,Silver
+C0443,Omar Rizvi,Male,18,Karachi,Clifton,Bronze
+C0444,Saima Iqbal,Female,34,Karachi,Korangi,Silver
+C0445,Faisal Ali,Male,21,Karachi,Federal B Area,Bronze
+C0446,Zara Sheikh,Female,41,Karachi,Gulshan-e-Iqbal,Silver
+C0447,Saad Iqbal,Male,38,Karachi,Clifton,Bronze
+C0448,Hina Qureshi,Female,25,Karachi,PECHS,Bronze
+C0449,Hamza Hashmi,Male,29,Karachi,Tariq Road,Bronze
+C0450,Hamza Raza,Male,24,Karachi,Korangi,Bronze
+C0451,Sara Khan,Female,34,Karachi,Malir,Bronze
+C0452,Zain Ali,Male,44,Karachi,Gulshan-e-Iqbal,Bronze
+C0453,Fahad Ahmed,Male,25,Karachi,North Nazimabad,Gold
+C0454,Aisha Hussain,Female,40,Karachi,Malir,Bronze
+C0455,Salman Baig,Male,29,Karachi,Malir,Bronze
+C0456,Uzma Ali,Female,27,Karachi,Gulistan-e-Johar,Gold
+C0457,Kamran Sheikh,Male,33,Karachi,Clifton,Gold
+C0458,Maryam Siddiqui,Female,24,Karachi,PECHS,Gold
+C0459,Ahmed Hussain,Male,29,Karachi,Korangi,Silver
+C0460,Ayesha Chaudhry,Female,23,Karachi,Lyari,Bronze
+C0461,Bushra Siddiqui,Female,54,Karachi,Saddar,Bronze
+C0462,Ali Raza,Male,35,Karachi,Bahadurabad,Silver
+C0463,Faisal Qureshi,Male,28,Karachi,North Nazimabad,Bronze
+C0464,Asad Ahmed,Male,37,Karachi,Defence (DHA),Silver
+C0465,Noor Butt,Female,33,Karachi,Federal B Area,Bronze
+C0466,Omar Farooq,Male,32,Karachi,Saddar,Bronze
+C0467,Sobia Mirza,Female,41,Karachi,Defence (DHA),Bronze
+C0468,Hamza Butt,Male,42,Karachi,Malir,Bronze
+C0469,Fahad Ansari,Male,29,Karachi,Gulistan-e-Johar,Silver
+C0470,Aisha Baig,Female,29,Karachi,Gulistan-e-Johar,Silver
+C0471,Saima Raza,Female,32,Karachi,Clifton,Bronze
+C0472,Fahad Rizvi,Male,18,Karachi,Defence (DHA),Silver
+C0473,Sana Hashmi,Female,19,Karachi,Gulshan-e-Iqbal,Bronze
+C0474,Ayesha Farooq,Female,48,Karachi,Clifton,Bronze
+C0475,Mehwish Mirza,Female,51,Karachi,Gulistan-e-Johar,Bronze
+C0476,Bushra Ali,Female,32,Karachi,Federal B Area,Silver
+C0477,Ali Malik,Male,40,Karachi,Malir,Silver
+C0478,Usman Qureshi,Male,38,Karachi,Tariq Road,Silver
+C0479,Raza Qureshi,Male,65,Karachi,Lyari,Gold
+C0480,Fatima Qureshi,Female,46,Karachi,Defence (DHA),Gold
+C0481,Raza Butt,Male,33,Karachi,PECHS,Silver
+C0482,Naeem Butt,Male,25,Karachi,Federal B Area,Bronze
+C0483,Uzma Hashmi,Female,18,Karachi,Federal B Area,Silver
+C0484,Amna Baig,Female,37,Karachi,Federal B Area,Silver
+C0485,Hina Rizvi,Female,27,Karachi,Tariq Road,Silver
+C0486,Kamran Mirza,Male,20,Karachi,Malir,Bronze
+C0487,Omar Khan,Male,28,Karachi,Saddar,Bronze
+C0488,Sara Siddiqui,Female,24,Karachi,Defence (DHA),Bronze
+C0489,Sobia Butt,Female,51,Karachi,Korangi,Bronze
+C0490,Amna Rizvi,Female,43,Karachi,PECHS,Silver
+C0491,Noor Ansari,Female,34,Karachi,PECHS,Silver
+C0492,Omar Iqbal,Male,49,Karachi,Korangi,Bronze
+C0493,Hamza Ahmed,Male,35,Karachi,Lyari,Silver
+C0494,Ahmed Raza,Male,26,Karachi,Clifton,Silver
+C0495,Usman Siddiqui,Male,50,Karachi,Gulshan-e-Iqbal,Bronze
+C0496,Bushra Ahmed,Female,40,Karachi,Bahadurabad,Silver
+C0497,Iqra Khan,Female,24,Karachi,Gulshan-e-Iqbal,Bronze
+C0498,Fatima Khan,Female,33,Karachi,Federal B Area,Silver
+C0499,Fatima Farooq,Female,26,Karachi,Lyari,Silver
+C0500,Nadia Sheikh,Female,21,Karachi,North Nazimabad,Bronze

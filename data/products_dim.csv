@@ -1,0 +1,167 @@
+product_id,product_name,category,sub_category,brand,cost_price,selling_price
+P001,Nestle Juices (250g),Beverages,Juices,Nestle,46.08,76.04
+P002,Nestle Juices (1kg),Beverages,Juices,Nestle,42.91,78.35
+P003,Nestle Juices (1kg),Beverages,Juices,Nestle,49.13,79.34
+P004,Nestle Juices (250g),Beverages,Juices,Nestle,49.41,75.61
+P005,Nestle Juices (500ml),Beverages,Juices,Nestle,46.38,85.73
+P006,Shezan Juices (500ml),Beverages,Juices,Shezan,39.24,68.28
+P007,Shezan Juices (Family Pack),Beverages,Juices,Shezan,36.45,63.13
+P008,Shezan Juices (1L),Beverages,Juices,Shezan,36.66,74.83
+P009,Shezan Juices (1kg),Beverages,Juices,Shezan,40.53,75.01
+P010,Coca-Cola Soft Drinks (200ml),Beverages,Soft Drinks,Coca-Cola,47.3,91.82
+P011,Coca-Cola Soft Drinks (Family Pack),Beverages,Soft Drinks,Coca-Cola,47.71,92.21
+P012,Coca-Cola Soft Drinks (500g),Beverages,Soft Drinks,Coca-Cola,53.99,86.08
+P013,Coca-Cola Soft Drinks (200ml),Beverages,Soft Drinks,Coca-Cola,46.79,90.96
+P014,Pepsi Soft Drinks (250g),Beverages,Soft Drinks,Pepsi,48.84,86.14
+P015,Pepsi Soft Drinks (Pack of 6),Beverages,Soft Drinks,Pepsi,52.12,78.71
+P016,Pepsi Soft Drinks (250g),Beverages,Soft Drinks,Pepsi,48.64,87.73
+P017,Pepsi Soft Drinks (1kg),Beverages,Soft Drinks,Pepsi,46.88,85.93
+P018,Aquafina Water (1kg),Beverages,Water,Aquafina,18.21,34.56
+P019,Aquafina Water (500ml),Beverages,Water,Aquafina,19.36,36.88
+P020,Aquafina Water (Pack of 6),Beverages,Water,Aquafina,21.88,33.78
+P021,Aquafina Water (500g),Beverages,Water,Aquafina,21.13,34.65
+P022,Lipton Tea (1kg),Beverages,Tea,Lipton,85.9,136.51
+P023,Lipton Tea (1L),Beverages,Tea,Lipton,88.05,144.5
+P024,Lipton Tea (500ml),Beverages,Tea,Lipton,89.63,134.27
+P025,Lipton Tea (250g),Beverages,Tea,Lipton,88.62,128.3
+P026,Lipton Tea (1L),Beverages,Tea,Lipton,82.96,147.95
+P027,Olpers Milk (Pack of 6),Beverages,Milk,Olpers,57.8,92.13
+P028,Olpers Milk (200ml),Beverages,Milk,Olpers,65.32,98.89
+P029,Olpers Milk (500g),Beverages,Milk,Olpers,55.23,91.75
+P030,Olpers Milk (Pack of 6),Beverages,Milk,Olpers,59.39,101.09
+P031,Olpers Milk (Pack of 6),Beverages,Milk,Olpers,55.24,91.79
+P032,Nestle Yogurt (1kg),Dairy,Yogurt,Nestle,42.91,61.37
+P033,Nestle Yogurt (Pack of 6),Dairy,Yogurt,Nestle,39.1,62.35
+P034,Nestle Yogurt (250g),Dairy,Yogurt,Nestle,40.58,63.51
+P035,Nestle Yogurt (Pack of 6),Dairy,Yogurt,Nestle,37.36,64.86
+P036,Nurpur Butter (Family Pack),Dairy,Butter,Nurpur,83.63,144.68
+P037,Nurpur Butter (500g),Dairy,Butter,Nurpur,88.58,154.51
+P038,Nurpur Butter (500ml),Dairy,Butter,Nurpur,87.5,168.77
+P039,Nurpur Butter (Family Pack),Dairy,Butter,Nurpur,91.69,145.56
+P040,Nurpur Butter (500ml),Dairy,Butter,Nurpur,83.44,139.71
+P041,Nurpur Butter (Pack of 6),Dairy,Butter,Nurpur,86.98,158.73
+P042,Adams Cheese (Family Pack),Dairy,Cheese,Adams,116.03,212.62
+P043,Adams Cheese (1L),Dairy,Cheese,Adams,115.21,204.13
+P044,Adams Cheese (250g),Dairy,Cheese,Adams,119.5,187.11
+P045,Adams Cheese (Pack of 6),Dairy,Cheese,Adams,131.25,191.66
+P046,Adams Cheese (Family Pack),Dairy,Cheese,Adams,131.23,211.28
+P047,Adams Cheese (1kg),Dairy,Cheese,Adams,117.03,212.66
+P048,Bake Parlour Bread (1kg),Bakery,Bread,Bake Parlour,50.75,91.15
+P049,Bake Parlour Bread (1L),Bakery,Bread,Bake Parlour,57.0,90.9
+P050,Bake Parlour Bread (Family Pack),Bakery,Bread,Bake Parlour,59.87,84.77
+P051,Bake Parlour Bread (500g),Bakery,Bread,Bake Parlour,58.64,82.24
+P052,Bake Parlour Bread (Pack of 6),Bakery,Bread,Bake Parlour,56.9,83.51
+P053,Bake Parlour Bread (500g),Bakery,Bread,Bake Parlour,52.16,92.86
+P054,Bake Parlour Bread (Pack of 6),Bakery,Bread,Bake Parlour,58.18,82.33
+P055,LU Biscuits (Pack of 6),Bakery,Biscuits,LU,30.21,59.66
+P056,LU Biscuits (Pack of 6),Bakery,Biscuits,LU,30.26,58.2
+P057,LU Biscuits (1kg),Bakery,Biscuits,LU,31.21,58.44
+P058,LU Biscuits (500ml),Bakery,Biscuits,LU,27.66,52.23
+P059,LU Biscuits (1kg),Bakery,Biscuits,LU,28.0,56.24
+P060,LU Biscuits (Pack of 6),Bakery,Biscuits,LU,32.8,53.15
+P061,LU Biscuits (Pack of 6),Bakery,Biscuits,LU,27.64,50.58
+P062,Bake Parlour Cakes (250g),Bakery,Cakes,Bake Parlour,178.05,293.47
+P063,Bake Parlour Cakes (1L),Bakery,Cakes,Bake Parlour,174.42,271.47
+P064,Bake Parlour Cakes (500ml),Bakery,Cakes,Bake Parlour,172.64,325.23
+P065,Bake Parlour Cakes (500ml),Bakery,Cakes,Bake Parlour,166.18,326.44
+P066,Bake Parlour Cakes (1L),Bakery,Cakes,Bake Parlour,174.54,290.58
+P067,Lays Chips (Family Pack),Snacks,Chips,Lays,43.63,73.56
+P068,Lays Chips (Family Pack),Snacks,Chips,Lays,43.37,76.8
+P069,Lays Chips (500ml),Snacks,Chips,Lays,40.7,77.49
+P070,Lays Chips (500ml),Snacks,Chips,Lays,46.59,74.63
+P071,Lays Chips (250g),Snacks,Chips,Lays,45.14,80.83
+P072,Cadbury Chocolate (Pack of 6),Snacks,Chocolate,Cadbury,87.34,132.49
+P073,Cadbury Chocolate (Pack of 6),Snacks,Chocolate,Cadbury,82.08,131.22
+P074,Cadbury Chocolate (Pack of 6),Snacks,Chocolate,Cadbury,78.33,146.65
+P075,Cadbury Chocolate (250g),Snacks,Chocolate,Cadbury,79.19,138.03
+P076,Cadbury Chocolate (200ml),Snacks,Chocolate,Cadbury,83.28,131.76
+P077,Cadbury Chocolate (500ml),Snacks,Chocolate,Cadbury,81.24,148.39
+P078,Guard Rice (1kg),Staples,Rice,Guard,115.82,198.3
+P079,Guard Rice (500g),Staples,Rice,Guard,124.1,199.58
+P080,Guard Rice (1kg),Staples,Rice,Guard,122.33,204.45
+P081,Guard Rice (500ml),Staples,Rice,Guard,116.35,213.82
+P082,Guard Rice (1L),Staples,Rice,Guard,127.53,208.24
+P083,Sunridge Flour (Atta) (500ml),Staples,Flour (Atta),Sunridge,93.1,144.4
+P084,Sunridge Flour (Atta) (250g),Staples,Flour (Atta),Sunridge,86.5,140.49
+P085,Sunridge Flour (Atta) (1L),Staples,Flour (Atta),Sunridge,90.19,147.55
+P086,Sunridge Flour (Atta) (1L),Staples,Flour (Atta),Sunridge,91.35,147.69
+P087,Sunridge Flour (Atta) (Family Pack),Staples,Flour (Atta),Sunridge,92.44,155.8
+P088,Sunridge Flour (Atta) (1L),Staples,Flour (Atta),Sunridge,90.99,149.69
+P089,Thal Sugar (1L),Staples,Sugar,Thal,62.59,103.97
+P090,Thal Sugar (200ml),Staples,Sugar,Thal,69.75,114.49
+P091,Thal Sugar (Family Pack),Staples,Sugar,Thal,60.27,111.62
+P092,Thal Sugar (Family Pack),Staples,Sugar,Thal,63.82,104.83
+P093,Thal Sugar (Family Pack),Staples,Sugar,Thal,64.85,96.24
+P094,Dalda Cooking Oil (250g),Staples,Cooking Oil,Dalda,172.52,286.49
+P095,Dalda Cooking Oil (500g),Staples,Cooking Oil,Dalda,168.06,297.44
+P096,Dalda Cooking Oil (Family Pack),Staples,Cooking Oil,Dalda,181.79,276.79
+P097,Dalda Cooking Oil (500ml),Staples,Cooking Oil,Dalda,171.64,302.59
+P098,National Spices (200ml),Condiments,Spices,National,63.12,98.83
+P099,National Spices (250g),Condiments,Spices,National,65.88,92.05
+P100,National Spices (250g),Condiments,Spices,National,57.57,109.99
+P101,National Spices (Family Pack),Condiments,Spices,National,57.15,107.24
+P102,National Spices (500ml),Condiments,Spices,National,59.27,109.88
+P103,National Spices (250g),Condiments,Spices,National,56.52,104.75
+P104,National Ketchup (Pack of 6),Condiments,Ketchup,National,65.32,111.34
+P105,National Ketchup (250g),Condiments,Ketchup,National,74.39,127.33
+P106,National Ketchup (1kg),Condiments,Ketchup,National,70.45,122.32
+P107,National Ketchup (1L),Condiments,Ketchup,National,67.53,124.9
+P108,National Ketchup (500g),Condiments,Ketchup,National,71.02,130.86
+P109,National Ketchup (500ml),Condiments,Ketchup,National,64.9,126.0
+P110,Menu Frozen Nuggets (200ml),Frozen,Frozen Nuggets,Menu,109.85,182.48
+P111,Menu Frozen Nuggets (1L),Frozen,Frozen Nuggets,Menu,104.03,157.51
+P112,Menu Frozen Nuggets (1L),Frozen,Frozen Nuggets,Menu,104.23,181.17
+P113,Menu Frozen Nuggets (Pack of 6),Frozen,Frozen Nuggets,Menu,99.79,172.63
+P114,Menu Frozen Nuggets (500g),Frozen,Frozen Nuggets,Menu,102.56,165.76
+P115,Menu Frozen Nuggets (500ml),Frozen,Frozen Nuggets,Menu,102.67,182.92
+P116,Menu Frozen Nuggets (500ml),Frozen,Frozen Nuggets,Menu,98.06,178.49
+P117,Walls Ice Cream (Family Pack),Frozen,Ice Cream,Walls,130.81,193.09
+P118,Walls Ice Cream (200ml),Frozen,Ice Cream,Walls,128.85,213.89
+P119,Walls Ice Cream (500ml),Frozen,Ice Cream,Walls,125.54,198.34
+P120,Walls Ice Cream (1kg),Frozen,Ice Cream,Walls,128.4,211.83
+P121,Walls Ice Cream (Pack of 6),Frozen,Ice Cream,Walls,113.23,197.19
+P122,Walls Ice Cream (250g),Frozen,Ice Cream,Walls,119.87,192.91
+P123,Pantene Shampoo (1kg),Personal Care,Shampoo,Pantene,191.8,300.99
+P124,Pantene Shampoo (Family Pack),Personal Care,Shampoo,Pantene,200.96,350.62
+P125,Pantene Shampoo (200ml),Personal Care,Shampoo,Pantene,172.75,333.2
+P126,Pantene Shampoo (Family Pack),Personal Care,Shampoo,Pantene,171.62,352.91
+P127,Pantene Shampoo (1L),Personal Care,Shampoo,Pantene,187.77,292.54
+P128,Pantene Shampoo (Pack of 6),Personal Care,Shampoo,Pantene,178.69,337.26
+P129,Lux Soap (500g),Personal Care,Soap,Lux,51.25,97.79
+P130,Lux Soap (500g),Personal Care,Soap,Lux,50.53,87.49
+P131,Lux Soap (500ml),Personal Care,Soap,Lux,53.59,97.27
+P132,Lux Soap (1L),Personal Care,Soap,Lux,50.07,92.26
+P133,Lux Soap (250g),Personal Care,Soap,Lux,54.22,82.64
+P134,Colgate Toothpaste (200ml),Personal Care,Toothpaste,Colgate,89.56,146.49
+P135,Colgate Toothpaste (250g),Personal Care,Toothpaste,Colgate,95.37,158.24
+P136,Colgate Toothpaste (200ml),Personal Care,Toothpaste,Colgate,98.72,170.15
+P137,Colgate Toothpaste (Pack of 6),Personal Care,Toothpaste,Colgate,98.69,159.29
+P138,Surf Excel Detergent (Pack of 6),Household,Detergent,Surf Excel,137.68,270.6
+P139,Surf Excel Detergent (500ml),Household,Detergent,Surf Excel,144.4,274.43
+P140,Surf Excel Detergent (1L),Household,Detergent,Surf Excel,146.48,270.98
+P141,Surf Excel Detergent (1L),Household,Detergent,Surf Excel,154.25,264.03
+P142,Surf Excel Detergent (500ml),Household,Detergent,Surf Excel,150.92,229.93
+P143,Vim Dishwash (Family Pack),Household,Dishwash,Vim,77.62,127.25
+P144,Vim Dishwash (1L),Household,Dishwash,Vim,86.72,138.13
+P145,Vim Dishwash (Family Pack),Household,Dishwash,Vim,85.76,123.84
+P146,Vim Dishwash (500ml),Household,Dishwash,Vim,74.24,124.83
+P147,Vim Dishwash (Pack of 6),Household,Dishwash,Vim,77.62,133.09
+P148,Pampers Diapers (250g),Baby,Diapers,Pampers,668.78,1054.38
+P149,Pampers Diapers (500g),Baby,Diapers,Pampers,739.06,1193.81
+P150,Pampers Diapers (500g),Baby,Diapers,Pampers,658.76,1174.59
+P151,Pampers Diapers (250g),Baby,Diapers,Pampers,734.7,1102.97
+P152,Pampers Diapers (200ml),Baby,Diapers,Pampers,739.73,1217.57
+P153,Sinar Notebooks (Family Pack),Stationery,Notebooks,Sinar,48.86,80.6
+P154,Sinar Notebooks (500ml),Stationery,Notebooks,Sinar,50.28,93.12
+P155,Sinar Notebooks (1kg),Stationery,Notebooks,Sinar,54.34,78.74
+P156,Sinar Notebooks (Pack of 6),Stationery,Notebooks,Sinar,48.65,88.11
+P157,Sinar Notebooks (Family Pack),Stationery,Notebooks,Sinar,54.54,89.6
+P158,Local Farm Fruits (500ml),Produce,Fruits,Local Farm,18.06,37.73
+P159,Local Farm Fruits (200ml),Produce,Fruits,Local Farm,21.79,39.18
+P160,Local Farm Fruits (500g),Produce,Fruits,Local Farm,20.51,40.01
+P161,Local Farm Fruits (Pack of 6),Produce,Fruits,Local Farm,19.69,39.22
+P162,Local Farm Vegetables (500g),Produce,Vegetables,Local Farm,13.75,27.47
+P163,Local Farm Vegetables (250g),Produce,Vegetables,Local Farm,16.42,27.93
+P164,Local Farm Vegetables (1kg),Produce,Vegetables,Local Farm,14.67,30.81
+P165,Local Farm Vegetables (500ml),Produce,Vegetables,Local Farm,14.43,29.62
+P166,Local Farm Vegetables (250g),Produce,Vegetables,Local Farm,13.67,27.52
