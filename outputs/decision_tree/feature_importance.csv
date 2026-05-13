@@ -1,0 +1,7 @@
+Feature,Importance
+avg_basket_size,0.375284056985637
+total_spent,0.3376654556951336
+purchase_frequency,0.2735907510387266
+age,0.01345973628050283
+gender_encoded,0.0
+loyalty_encoded,0.0
